@@ -1,1 +1,1 @@
-# AtividadeFeed
+# AtividadeFeedReactNative
